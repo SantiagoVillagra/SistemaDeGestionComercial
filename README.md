@@ -1,4 +1,5 @@
-##Sistema de Gestión comercial para local gastronómico
+
+## Sistema de Gestión comercial para local gastronómico. 
 
 Sistema de Gestión de Base de Datos
 Este proyecto consiste en el diseño, modelado e implementación de un sistema de base de datos relacional robusto desarrollado en SQL Server para la gestión integral de una rotisería.
