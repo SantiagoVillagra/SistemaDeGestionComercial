@@ -6,14 +6,17 @@ Este proyecto consiste en el diseño, modelado e implementación de un sistema d
 
 El sistema está optimizado para administrar el ciclo completo de pedidos, control de insumos/ingredientes por producto, métodos de pago, seguimiento de entregas y roles de personal repartidor.
 
-##🛠️ Tecnologías Utilizadas
+
+## 🛠️ Tecnologías Utilizadas
+
 Motor de BD: SQL Server
 
 Herramientas de Gestión: SQL Server Management Studio (SSMS)
 
 Lenguaje: T-SQL (DDL / DML)
 
-##🚀 Características Principales del Modelo
+
+## 🚀 Características Principales del Modelo
 Gestión de Menú y Recetario (Relación M:N):
 
 Mapeo de productos y sus ingredientes correspondientes mediante tablas compuestas e intermedias.
