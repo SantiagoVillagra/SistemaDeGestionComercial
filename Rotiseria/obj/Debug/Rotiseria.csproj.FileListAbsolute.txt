@@ -1,0 +1,98 @@
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\bin\Debug\Rotiseria.exe.config
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\bin\Debug\Rotiseria.exe
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\bin\Debug\Rotiseria.pdb
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.AssemblyReference.cache
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.FrmRotiseria.resources
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Properties.Resources.resources
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.GenerateResource.cache
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.CoreCompileInputs.cache
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.exe
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.pdb
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmCliente.resources
+C:\Users\TUP - UTN\TUP - UTN 2026\1° AÑO\1° SEMESTRE\PROGRAMACION - LOGICA\Rotiseria\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmPedido.resources
+C:\PROYECTO UNC\Rotiseria\Rotiseria\bin\Debug\Rotiseria.exe.config
+C:\PROYECTO UNC\Rotiseria\Rotiseria\bin\Debug\Rotiseria.exe
+C:\PROYECTO UNC\Rotiseria\Rotiseria\bin\Debug\Rotiseria.pdb
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.AssemblyReference.cache
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmCliente.resources
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmPedido.resources
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.FrmRotiseria.resources
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Properties.Resources.resources
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.GenerateResource.cache
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.CoreCompileInputs.cache
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.exe
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.pdb
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmAlumnos.resources
+C:\PROYECTO UNC\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoCliente.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\bin\Debug\Rotiseria.exe.config
+C:\PROYECTO UTN\Rotiseria\Rotiseria\bin\Debug\Rotiseria.exe
+C:\PROYECTO UTN\Rotiseria\Rotiseria\bin\Debug\Rotiseria.pdb
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.AssemblyReference.cache
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmAlumnos.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmCliente.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoCliente.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmPedido.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.FrmRotiseria.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Properties.Resources.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.GenerateResource.cache
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.csproj.CoreCompileInputs.cache
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.exe
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.pdb
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.frmUpdated.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoBarrio.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta6.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta4.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta5.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FormAgregarProducto.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FormDetallePedido.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoPedido.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta2.resources
+C:\PROYECTO UTN\Rotiseria\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta3.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\bin\Debug\Rotiseria.exe.config
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\bin\Debug\Rotiseria.exe
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\bin\Debug\Rotiseria.pdb
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.csproj.AssemblyReference.cache
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta2.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta3.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta4.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta5.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta6.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FormAgregarProducto.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FormDetallePedido.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmAlumnos.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmCliente.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoBarrio.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoCliente.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmPedido.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.FrmRotiseria.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.frmUpdated.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoPedido.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.Properties.Resources.resources
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.csproj.GenerateResource.cache
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.csproj.CoreCompileInputs.cache
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.exe
+C:\PROYECTO UTN\Rotiseria con fondo\Rotiseria\obj\Debug\Rotiseria.pdb
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\bin\Debug\Rotiseria.exe.config
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\bin\Debug\Rotiseria.exe
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\bin\Debug\Rotiseria.pdb
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.csproj.AssemblyReference.cache
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta2.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta3.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta4.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta5.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.Consulta6.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FormAgregarProducto.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FormDetallePedido.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmAlumnos.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmCliente.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoBarrio.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoCliente.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmPedido.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.FrmRotiseria.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.frmUpdated.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Presentacion.FrmNuevoPedido.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.Properties.Resources.resources
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.csproj.GenerateResource.cache
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.csproj.CoreCompileInputs.cache
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.exe
+C:\PROYECTO UTN\Rotiseria con fondo\SistemaDeGestionComercial\Rotiseria\obj\Debug\Rotiseria.pdb

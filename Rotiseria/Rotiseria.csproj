@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D76E5F0-D2DF-42C7-85DD-82343E7DC27D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Rotiseria</RootNamespace>
+    <AssemblyName>Rotiseria</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\AccesoDatos.cs" />
+    <Compile Include="Datos\Parametro.cs" />
+    <Compile Include="Datos\RotiseriaDao.cs" />
+    <Compile Include="Negocio\Barrio.cs" />
+    <Compile Include="Negocio\Ciudad.cs" />
+    <Compile Include="Negocio\Cliente.cs" />
+    <Compile Include="Negocio\DetallePedido.cs" />
+    <Compile Include="Negocio\Envio.cs" />
+    <Compile Include="Negocio\FormaPago.cs" />
+    <Compile Include="Negocio\Ingrediente.cs" />
+    <Compile Include="Negocio\IngXProd.cs" />
+    <Compile Include="Negocio\Pedido.cs" />
+    <Compile Include="Negocio\Producto.cs" />
+    <Compile Include="Negocio\Repartidor.cs" />
+    <Compile Include="Negocio\RotiseriaServicio.cs" />
+    <Compile Include="Negocio\TipoProducto.cs" />
+    <Compile Include="Presentacion\Consulta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Consulta2.Designer.cs">
+      <DependentUpon>Consulta2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Consulta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Consulta3.Designer.cs">
+      <DependentUpon>Consulta3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Consulta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Consulta4.Designer.cs">
+      <DependentUpon>Consulta4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Consulta5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Consulta5.Designer.cs">
+      <DependentUpon>Consulta5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Consulta6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Consulta6.Designer.cs">
+      <DependentUpon>Consulta6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FormAgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FormAgregarProducto.Designer.cs">
+      <DependentUpon>FormAgregarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FormDetallePedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FormDetallePedido.Designer.cs">
+      <DependentUpon>FormDetallePedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmAlumnos.Designer.cs">
+      <DependentUpon>FrmAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmCliente.Designer.cs">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmNuevoBarrio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmNuevoBarrio.Designer.cs">
+      <DependentUpon>FrmNuevoBarrio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmNuevoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmNuevoCliente.Designer.cs">
+      <DependentUpon>FrmNuevoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmPedido.Designer.cs">
+      <DependentUpon>FrmPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmRotiseria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmRotiseria.Designer.cs">
+      <DependentUpon>FrmRotiseria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\frmUpdated.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\frmUpdated.Designer.cs">
+      <DependentUpon>frmUpdated.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmNuevoPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmNuevoPedido.Designer.cs">
+      <DependentUpon>FrmNuevoPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\Consulta2.resx">
+      <DependentUpon>Consulta2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Consulta3.resx">
+      <DependentUpon>Consulta3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Consulta4.resx">
+      <DependentUpon>Consulta4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Consulta5.resx">
+      <DependentUpon>Consulta5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Consulta6.resx">
+      <DependentUpon>Consulta6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FormAgregarProducto.resx">
+      <DependentUpon>FormAgregarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FormDetallePedido.resx">
+      <DependentUpon>FormDetallePedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmAlumnos.resx">
+      <DependentUpon>FrmAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmCliente.resx">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmNuevoBarrio.resx">
+      <DependentUpon>FrmNuevoBarrio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmNuevoCliente.resx">
+      <DependentUpon>FrmNuevoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmPedido.resx">
+      <DependentUpon>FrmPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmRotiseria.resx">
+      <DependentUpon>FrmRotiseria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\frmUpdated.resx">
+      <DependentUpon>frmUpdated.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmNuevoPedido.resx">
+      <DependentUpon>FrmNuevoPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
